@@ -1,0 +1,13 @@
+.formulario{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  padding: 30px;
+  background-color: rgba(182, 174, 174, 0.322);
+  border: 3px solid #000;
+}
+.forget{
+  margin-top: 10px;
+}
